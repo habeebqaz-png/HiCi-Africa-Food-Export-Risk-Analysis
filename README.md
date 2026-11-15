@@ -22,6 +22,9 @@ This project analyses EU food-safety notifications to identify risks affecting A
 - COUNTIFS
 - Data analysis and reporting
 
+## Dashboard
+<img width="693" height="863" alt="HICI DASHBOARD" src="https://github.com/user-attachments/assets/c78fd9f0-5cba-4c0f-bdfc-18562a27e746" />
+
 ## Key Findings
 - Greece recorded 223 notifications in the analysed data.
 - Nuts, nut products and seeds accounted for 318 notifications.
@@ -40,4 +43,3 @@ The analysis highlights important food-export risks and demonstrates how data an
 ## Project Files
 "C:\Users\USER\Desktop\utiva\project\HiCi - Africa Food Export (2).xlsx"
 
-<img width="693" height="863" alt="HICI DASHBOARD" src="https://github.com/user-attachments/assets/c78fd9f0-5cba-4c0f-bdfc-18562a27e746" />
